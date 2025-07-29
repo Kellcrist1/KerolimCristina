@@ -21,3 +21,10 @@ drawing and reading.
 💡 Pronouns: She/Her;
 
 🤡 Fun fact: i play MTG and Pokemon.
+
+<div>
+  <a href="https://beacons.ai/rafaballerini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellcrist1&show_icons=false&theme=dracula&include_all_commits=false&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellcrist1&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
